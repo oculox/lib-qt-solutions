@@ -1,0 +1,11 @@
+# Build items.
+/buildlib/
+/examples/
+/lib/
+
+# QtCreator generated files.
+*.pro.user*
+config.pri
+CMakeLists.txt.user*
+Makefile
+.qmake.stash
